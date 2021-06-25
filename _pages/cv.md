@@ -28,7 +28,7 @@ Skills
 * Deep Learning
   * Computer Vision
   * Continual Learning
-* Skill 3
+* Teamwork
 
 Publications
 ======
