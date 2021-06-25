@@ -18,7 +18,7 @@ Work experience
 ======
 * 2021 - present: Fellow Resercher
   * Istituto Italiano di Tecnologia
-  * Duties included: Tagging issues
+  * Duties included: Computer vision research for the ergoCub project
   * Supervisor: Lorenzo Natale
 
   
