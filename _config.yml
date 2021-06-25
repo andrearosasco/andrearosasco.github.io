@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Andrea Rosasco"
-  avatar           : "profile.jpg"
+  avatar           : "//0.gravatar.com/avatar/7125ef3338dbe6956ddeecc81c936b10?s=120"
   bio              : "Fellowship Research at the Center for Robotics and Intelligent Systems, Istituto Italiano di Tecnologia (IIT)."
   location         : "Genoa, Italy"
   employer         :
