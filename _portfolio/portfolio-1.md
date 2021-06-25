@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "[ergoCub](https://opentalk.iit.it/con-il-progetto-ergocub-di-inail-e-iit-la-robotica-e-al-servizio-della-prevenzione/)"
+excerpt: "Project ergoCub focuses on the development of a humanoid robot capable of monitoring human activity in a work environment and acting preemptively in case of potential danger.<br/><iframe width="560" height="315" src="https://www.youtube.com/embed/22lQYHrIz6k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>"
 collection: portfolio
 ---
 
