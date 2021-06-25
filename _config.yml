@@ -11,9 +11,9 @@ title                    : "Andrea Rosasco"
 title_separator          : "-"
 name                     : &name "Andrea Rosasco"
 description              : &description "Personal description"
-url                      : https://andrew-r96.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://andrearosasco.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "andrew-r96/andrew-r96.github.io"
+repository               : "andrearosasco/andrearosasco.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "andrew-r96"
+  github           : "andrearosasco"
   google_plus      :
   keybase          :
   instagram        :
