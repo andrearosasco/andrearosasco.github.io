@@ -1,6 +1,6 @@
 ---
 title: "<a href=\"https://opentalk.iit.it/con-il-progetto-ergocub-di-inail-e-iit-la-robotica-e-al-servizio-della-prevenzione/\">ergoCub</a>"
-excerpt: "Project ergoCub focuses on the development of a humanoid robot capable of monitoring human activity in a work environment and acting preemptively in case of potential danger.<br/><iframe width=\"560\" height=\"315\" src=\"//www.youtube.com/embed/22lQYHrIz6k\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+excerpt: "Project ergoCub focuses on the development of a humanoid robot capable of monitoring human activity in a work environment and acting preemptively in case of potential danger.<br/>  <iframe src=\"demo_iframe.htm\" style=\"height:200px;width:300px;\" title=\"Iframe Example\"></iframe> "
 collection: portfolio
 ---
 
