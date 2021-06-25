@@ -11,29 +11,23 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Science, University of Genova, 2018, (110 cum laude)
+* M.S. in Computer Science - Artificial Intelligence, University of Pisa, 2021. (110 cum laude)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* 2021 - present: Fellow Resercher
+  * Istituto Italiano di Tecnologia
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Supervisor: Lorenzo Natale
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
+* Python/C++ Programming
+* Deep Learning
+  * Computer Vision
+  * Continual Learning
 * Skill 3
 
 Publications
@@ -42,7 +36,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
@@ -56,4 +50,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
