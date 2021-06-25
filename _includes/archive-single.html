@@ -53,7 +53,9 @@
     {% endif %}
 
     {% if post.video%}
-    <iframe fitvidsignore width="50%" height="50%" src="{{post.video}}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <div class="fitvidsignore">
+    <iframe width="50%" height="50%" src="{{post.video}}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
     {% endif %}
     
     {% if post.citation and post.paperurl %}
