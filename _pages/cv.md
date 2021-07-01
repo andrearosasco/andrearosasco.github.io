@@ -19,7 +19,7 @@ Work experience
 * 2021 - present: **Research Fellow**
   * *CRIS - Istituto Italiano di Tecnologia*
   * Duties included: Computer vision research for the ergoCub project
-  * Supervisor: Lorenzo Natale
+  * PI: Lorenzo Natale
 
   
 Skills
