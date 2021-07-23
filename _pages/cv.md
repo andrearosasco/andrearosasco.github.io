@@ -16,7 +16,7 @@ Education
 
 Work experience
 ------
-* 2021 - present: **Research Fellow**
+* 2021 - present: **PhD Student Fellow**
   * *CRIS - Istituto Italiano di Tecnologia*
   * Duties included: Computer vision research for the ergoCub project
   * PI: Lorenzo Natale
